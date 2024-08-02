@@ -94,6 +94,13 @@ const EXPLORERS: NavItem[] = [
     href: 'https://testnet.cryptonode.id/symphony',
     description: 'An explorer from one of our supporting validators',
   },
+  {
+    id: '12',
+    label: 'Winnode',
+    target: '_blank',
+    href: 'https://www.explorer.winnode.site/symphony',
+    description: 'An explorer from one of our supporting validators',
+  },
 ];
 
 export const Explorers = () => (
